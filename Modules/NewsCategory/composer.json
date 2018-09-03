@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/newscategory",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\NewsCategory\\Providers\\NewsCategoryServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\NewsCategory\\": ""
+        }
+    }
+}

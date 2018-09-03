@@ -1,0 +1,16 @@
+{
+    "name": "NewsCategory",
+    "alias": "newscategory",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\NewsCategory\\Providers\\NewsCategoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

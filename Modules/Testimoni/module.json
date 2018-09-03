@@ -1,0 +1,16 @@
+{
+    "name": "Testimoni",
+    "alias": "testimoni",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Testimoni\\Providers\\TestimoniServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
