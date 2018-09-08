@@ -1,0 +1,16 @@
+{
+    "name": "Tracking",
+    "alias": "tracking",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Tracking\\Providers\\TrackingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
